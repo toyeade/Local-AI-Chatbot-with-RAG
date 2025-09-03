@@ -155,8 +155,3 @@ If you encounter any issues:
 2. Verify the llama3.2 model is installed: `ollama list`
 3. Check the logs for error messages
 4. Open an issue on GitHub
-
----
-
-**Happy chatting! 🤖💬**
-# Updated by Toye Adeyemo
