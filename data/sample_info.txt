@@ -1,0 +1,9 @@
+
+This is a sample document.
+
+It contains information about a fictional user's project experiences:
+- Developed a Python automation tool for file management
+- Built a Telegram bot for Reddit post sharing
+- Created a face-blurring system using OpenCV for videos
+
+Ask me anything about these!

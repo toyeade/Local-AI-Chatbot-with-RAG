@@ -1,0 +1,51 @@
+# Virtual environment
+.venv/
+venv/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Distribution / packaging
+*.egg-info/
+dist/
+build/
+
+# Database files
+chroma_db/
+*.bin
+*.sqlite
+*.db
+
+# Environment variables
+.env
+.env.local
+
+# Data files (uncomment if you want to exclude data)
+data/
+
+# Logs
+*.log
+*.log.*
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Jupyter
+.ipynb_checkpoints/
+.cursorrules
+
+# Ollama models (if you want to exclude them)
+models/
+
+# Temporary files
+*.tmp
+*.temp

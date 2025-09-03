@@ -1,0 +1,11 @@
+langchain
+langchain-community
+chromadb
+gradio
+openai
+pypdf
+unstructured
+langchain-ollama
+jupyter
+lab
+pymupdf
